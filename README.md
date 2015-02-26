@@ -1,38 +1,31 @@
 ##Introduction to openFrameworks
 ####Workshop hosted by Interactive Media Arts
 
-[ Download openFrameworks ]
+#### 001 Download openFrameworks
 
 For this workshop we will be using version 0.8.4
-http://openframeworks.cc/download/
+[download here](http://openframeworks.cc/download/)
 
-[ oF in the field  ]
+#### 002 The openFrameworks community
 
 - Why oF?
 - Examples on the web
 - Artists to know about
 
-[ Structure of an oF application ]
+#### 003 Structure of an oF application
 
+- openFrameworks for Processing users
 - ofMain.h, ofApp.h, ofApp.cpp
 - Exploring the examples
-- openFrameworks for Processing users
-- http://openframeworks.cc/tutorials/introduction/001_chapter1.html
+- [Chapter 1 openFrameworks tutorial](http://openframeworks.cc/tutorials/introduction/001_chapter1.html)
 
-[ How to create your own app ]
+#### 004 How to create your own app
 
-- Method one: Project Generator 
-	- http://www.openframeworks.cc/tutorials/introduction/002_projectGenerator.html
+- Method one: [Using the Project Generator](http://www.openframeworks.cc/tutorials/introduction/002_projectGenerator.html)
 - Method two: Copy Pasta
 
-[ Addons ]
-
-- How to install addons
-- Find more at ofxAddons.com
-
-[ Additional Resources ]
-
-- Come to Part II on March 10.
-- http://www.ofxaddons.com/
-- https://github.com/gianordoli/of_course_design_by_code
-- https://github.com/firmread/ofDemystified
+#### 005 Addons and Resources
+- Come to Part II on March 10!
+- [ofxAddons](http://www.ofxaddons.com/)
+- [Design by Code workshop examples](https://github.com/gianordoli/of_course_design_by_code)
+- [ofDemystified book examples](https://github.com/firmread/ofDemystified)
