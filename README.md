@@ -1,7 +1,7 @@
 ##Introduction to openFrameworks
 ####Workshop hosted by Interactive Media Arts
 
-![alt tag](http://imgur.com/FkmOkDU)
+![of-poster](http://i.imgur.com/FkmOkDU.jpg)
 
 #### 001 Download openFrameworks
 
