@@ -1,5 +1,4 @@
 ##Introduction to openFrameworks
-####Workshop hosted by Interactive Media Arts
 
 ![of-poster](http://i.imgur.com/FkmOkDU.jpg)
 
