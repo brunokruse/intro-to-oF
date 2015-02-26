@@ -1,6 +1,8 @@
 ##Introduction to openFrameworks
 ####Workshop hosted by Interactive Media Arts
 
+![alt tag](http://imgur.com/FkmOkDU)
+
 #### 001 Download openFrameworks
 
 For this workshop we will be using version 0.8.4
