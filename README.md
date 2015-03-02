@@ -14,12 +14,12 @@ For Windows it's reccomended to download Visual Studio express.<br/>
 
 - Why oF?
 - Inspiration on the web: <br/>
-   - [Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs) <br/>
-   - [Light Leaks](https://vimeo.com/66167082) <br/>
-   - [Eyewriter](http://thesystemis.com/projects/eyewriter/) <br/>
-   - [design I/O](http://design-io.com) <br />
-   - [DepthKit](http://www.rgbdtoolkit.com) <br />
-   - [V Motion Project](https://vimeo.com/45417241) <br />
+   - [Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs), openFrameworks community <br/>
+   - [Light Leaks](https://vimeo.com/66167082), Kyle McDonald <br/>
+   - [Eyewriter](http://thesystemis.com/projects/eyewriter/), Zach Lieberman<br/>
+   - [design I/O](http://design-io.com), Theodore Watson, Emily Gobeille<br />
+   - [DepthKit](http://www.rgbdtoolkit.com), James George, Alexander Porter <br />
+   - [V Motion Project](https://vimeo.com/45417241), assemblyltd.com <br />
    - and more ...
 
 #### 003 Structure of an oF application
