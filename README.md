@@ -11,9 +11,9 @@ For this workshop we will be using version 0.8.4
 
 - Why oF?
 - Inspiration on the web: 
-   -[Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs)
-   -[Light Leaks](https://vimeo.com/66167082)
-   -[Eyewriter](http://thesystemis.com/projects/eyewriter/)
+   -[Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs) <br/>
+   -[Light Leaks](https://vimeo.com/66167082)<br/>
+   -[Eyewriter](http://thesystemis.com/projects/eyewriter/)<br/>
 
 #### 003 Structure of an oF application
 
