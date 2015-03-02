@@ -15,7 +15,8 @@ For this workshop we will be using [openFrameworks 0.8.4] (http://openframeworks
 - Unzip of_v0.8.4_vs_release.zip to 'My Documents'
 
 ### 002 The openFrameworks community
-- While you are downloding, lets talk about...
+- What is openFrameworks?
+- While you are downloading, lets talk about...
 - Inspiration on the web: <br/>
    - [Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs), openFrameworks community <br/>
    - [Light Leaks](https://vimeo.com/66167082), Kyle McDonald <br/>
