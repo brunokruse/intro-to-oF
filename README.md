@@ -10,7 +10,7 @@ For this workshop we will be using version 0.8.4
 #### 002 The openFrameworks community
 
 - Why oF?
-- Examples on the web
+- Examples on the web [Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs)
 - Artists to know about
 
 #### 003 Structure of an oF application
