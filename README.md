@@ -1,4 +1,4 @@
-#打开平台​
+#打开平台
 
 ![of-poster](http://i.imgur.com/FkmOkDU.jpg)
 
@@ -7,12 +7,16 @@
 For this workshop we will be using version 0.8.4: <br/>
 [openFrameworks 0.8.4](http://openframeworks.cc/download/) <br/>
 <br/>
-For Windows it's reccomended to download Visual Studio express.<br/>
+
+####OSX
+Download XCode from the App Store.
+
+####Windows
+For Windows download Visual Studio express.<br/>
 [VS Express](http://openframeworks.cc/setup/vs/)
 
 #### 002 The openFrameworks community
-
-- Why oF?
+- While you are downloding, lets talk about...
 - Inspiration on the web: <br/>
    - [Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs), openFrameworks community <br/>
    - [Light Leaks](https://vimeo.com/66167082), Kyle McDonald <br/>
