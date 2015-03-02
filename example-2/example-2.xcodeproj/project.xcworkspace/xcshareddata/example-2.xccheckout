@@ -22,7 +22,7 @@
 		<key>294D49DED19D9EDE9C8870408CB0F49D0F63EBAC</key>
 		<string>../../..</string>
 		<key>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</key>
-		<string>../../../../..</string>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/brunokruse/intro-to-oF.git</string>
@@ -38,7 +38,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</string>
 			<key>IDESourceControlWCCName</key>
-			<string>..</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
