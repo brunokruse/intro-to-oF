@@ -1,5 +1,4 @@
 #打开平台​
-##Introduction to openFrameworks
 
 ![of-poster](http://i.imgur.com/FkmOkDU.jpg)
 
