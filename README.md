@@ -6,12 +6,13 @@
 
 For this workshop we will be using [openFrameworks 0.8.4] (http://openframeworks.cc/download/) <br/>
 
-####OSX
-Download XCode from the App Store.
+#####OSX Setup
+[Download Xcode](https://itunes.apple.com/hk/app/xcode/id497799835?mt=12) from the App Store.<br/>
+openFrameworks for Xcode [direct link](http://www.openframeworks.cc/versions/v0.8.4/of_v0.8.4_osx_release.zip)
 
-####Windows
-For Windows download Visual Studio express.<br/>
-[VS Express](http://openframeworks.cc/setup/vs/)
+#####Windows Setup
+For Windows download [Visual Studio express](http://openframeworks.cc/setup/vs/)<br/>
+openFrameworks for Visual Studio [direct link](http://www.openframeworks.cc/versions/v0.8.4/of_v0.8.4_vs_release.zip)
 
 #### 002 The openFrameworks community
 - While you are downloding, lets talk about...
