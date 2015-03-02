@@ -4,9 +4,7 @@
 
 #### 001 Download openFrameworks
 
-For this workshop we will be using version 0.8.4: <br/>
-[openFrameworks 0.8.4](http://openframeworks.cc/download/) <br/>
-<br/>
+For this workshop we will be using [openFrameworks 0.8.4] (http://openframeworks.cc/download/) <br/>
 
 ####OSX
 Download XCode from the App Store.
