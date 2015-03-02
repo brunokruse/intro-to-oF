@@ -4,16 +4,23 @@
 
 #### 001 Download openFrameworks
 
-For this workshop we will be using version 0.8.4
-[download here](http://openframeworks.cc/download/)
+For this workshop we will be using version 0.8.4: <br/>
+[openFrameworks 0.8.4](http://openframeworks.cc/download/) <br/>
+<br/>
+For Windows it's reccomended to download Visual Studio express.<br/>
+[VS Express](http://openframeworks.cc/setup/vs/)
 
 #### 002 The openFrameworks community
 
 - Why oF?
-- Inspiration on the web: 
-   -[Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs) <br/>
-   -[Light Leaks](https://vimeo.com/66167082)<br/>
-   -[Eyewriter](http://thesystemis.com/projects/eyewriter/)<br/>
+- Inspiration on the web: <br/>
+   - [Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs) <br/>
+   - [Light Leaks](https://vimeo.com/66167082) <br/>
+   - [Eyewriter](http://thesystemis.com/projects/eyewriter/) <br/>
+   - [design I/O](http://design-io.com) <br />
+   - [DepthKit](http://www.rgbdtoolkit.com) <br />
+   - [V Motion Project](https://vimeo.com/45417241) <br />
+   - and more ...
 
 #### 003 Structure of an oF application
 
