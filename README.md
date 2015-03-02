@@ -10,8 +10,10 @@ For this workshop we will be using version 0.8.4
 #### 002 The openFrameworks community
 
 - Why oF?
-- Examples on the web [Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs)
-- Artists to know about
+- Inspiration on the web: 
+   -[Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs)
+   -[Light Leaks](https://vimeo.com/66167082)
+   -[Eyewriter](http://thesystemis.com/projects/eyewriter/)
 
 #### 003 Structure of an oF application
 
