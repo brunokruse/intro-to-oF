@@ -1,7 +1,5 @@
 #打开平台
 
-![of-poster](http://i.imgur.com/FkmOkDU.jpg)
-
 ### 001 Download openFrameworks
 
 For this workshop we will be using [openFrameworks 0.8.4] (http://openframeworks.cc/download/) <br/>
@@ -44,3 +42,8 @@ For this workshop we will be using [openFrameworks 0.8.4] (http://openframeworks
 - [ofxAddons](http://www.ofxaddons.com/)
 - [Design by Code workshop examples](https://github.com/gianordoli/of_course_design_by_code)
 - [ofDemystified book examples](https://github.com/firmread/ofDemystified)
+
+<br />
+<br />
+
+![of-poster](http://i.imgur.com/FkmOkDU.jpg)
