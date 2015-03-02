@@ -2,19 +2,21 @@
 
 ![of-poster](http://i.imgur.com/FkmOkDU.jpg)
 
-#### 001 Download openFrameworks
+### 001 Download openFrameworks
 
 For this workshop we will be using [openFrameworks 0.8.4] (http://openframeworks.cc/download/) <br/>
 
 #####OSX Setup
-[Download Xcode](https://itunes.apple.com/hk/app/xcode/id497799835?mt=12) from the App Store.<br/>
-openFrameworks for Xcode [direct link](http://www.openframeworks.cc/versions/v0.8.4/of_v0.8.4_osx_release.zip)
+- [Download Xcode](https://itunes.apple.com/hk/app/xcode/id497799835?mt=12) from the App Store.<br/>
+- openFrameworks for Xcode: [direct link](http://www.openframeworks.cc/versions/v0.8.4/of_v0.8.4_osx_release.zip)
+- Unzip of_v0.8.4_osx_release.zip to your 'Documents' folder
 
 #####Windows Setup
-For Windows download [Visual Studio express](http://openframeworks.cc/setup/vs/)<br/>
-openFrameworks for Visual Studio [direct link](http://www.openframeworks.cc/versions/v0.8.4/of_v0.8.4_vs_release.zip)
+- For Windows download [Visual Studio express](http://openframeworks.cc/setup/vs/)<br/>
+- openFrameworks for Visual Studio: [direct link](http://www.openframeworks.cc/versions/v0.8.4/of_v0.8.4_vs_release.zip)
+- Unzip of_v0.8.4_vs_release.zip to 'My Documents'
 
-#### 002 The openFrameworks community
+### 002 The openFrameworks community
 - While you are downloding, lets talk about...
 - Inspiration on the web: <br/>
    - [Showreel](https://www.youtube.com/watch?v=6u6IDorMKAs), openFrameworks community <br/>
@@ -25,19 +27,19 @@ openFrameworks for Visual Studio [direct link](http://www.openframeworks.cc/vers
    - [V Motion Project](https://vimeo.com/45417241), assemblyltd.com <br />
    - and more ...
 
-#### 003 Structure of an oF application
+### 003 Structure of an oF application
 
+- Exploring the examples
 - openFrameworks for Processing users
 - ofMain.h, ofApp.h, ofApp.cpp
-- Exploring the examples
-- [Chapter 1 openFrameworks tutorial](http://openframeworks.cc/tutorials/introduction/001_chapter1.html)
+- [Extended openFrameworks tutorial](http://openframeworks.cc/tutorials/introduction/001_chapter1.html)
 
-#### 004 How to create your own app
+### 004 Creating your own app
 
-- Method one: [Using the Project Generator](http://www.openframeworks.cc/tutorials/introduction/002_projectGenerator.html)
-- Method two: Copy Pasta
+- [Using the Project Generator](http://www.openframeworks.cc/tutorials/introduction/002_projectGenerator.html)
 
-#### 005 Addons and Resources
+### 005 Addons && Resources
+
 - Come to Part II on March 10!
 - [ofxAddons](http://www.ofxaddons.com/)
 - [Design by Code workshop examples](https://github.com/gianordoli/of_course_design_by_code)
