@@ -2,6 +2,12 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+    
+    ofSetFrameRate(60);
+    ofSetCircleResolution(60);
+    
+    xPosition = ofGetWidth()/2;
+    yPosition = ofGetHeight()/2;
 
 }
 
@@ -12,6 +18,12 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
+    
+    ofBackground(0, 0, 0);
+    
+    ofFill();
+    ofSetColor(255,0,0);
+    ofDrawEllipse(xPosition, yPosition, 200, 200);
 
 }
 
