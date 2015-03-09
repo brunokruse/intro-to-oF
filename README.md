@@ -1,6 +1,6 @@
 #打开平台
 
-##[Workshop slides available here.](https://docs.google.com/presentation/d/1ZvE6pzU6zB2VDHxX00p9euYan9otdRpWnn7DL2Zlp9Y/edit?usp=sharing)
+###[Workshop slides available here.](https://docs.google.com/presentation/d/1ZvE6pzU6zB2VDHxX00p9euYan9otdRpWnn7DL2Zlp9Y/edit?usp=sharing)
 
 ### Getting Started
 
