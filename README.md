@@ -1,6 +1,6 @@
 #打开平台
 
-#####[Workshop slides available here.](https://docs.google.com/presentation/d/1ZvE6pzU6zB2VDHxX00p9euYan9otdRpWnn7DL2Zlp9Y/edit?usp=sharing)
+##[Workshop slides available here.](https://docs.google.com/presentation/d/1ZvE6pzU6zB2VDHxX00p9euYan9otdRpWnn7DL2Zlp9Y/edit?usp=sharing)
 
 ### Getting Started
 
@@ -45,8 +45,3 @@ For this workshop we will be using [openFrameworks 0.8.4] (http://openframeworks
 - [ofxAddons](http://www.ofxaddons.com/)
 - [Design by Code workshop examples](https://github.com/gianordoli/of_course_design_by_code)
 - [ofDemystified book examples](https://github.com/firmread/ofDemystified)
-
-<br />
-<br />
-
-![of-poster](http://i.imgur.com/FkmOkDU.jpg)
