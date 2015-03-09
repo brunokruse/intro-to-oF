@@ -14,7 +14,18 @@ For this workshop we will be using [openFrameworks 0.8.4] (http://openframeworks
 - openFrameworks for Visual Studio: [direct link](http://www.openframeworks.cc/versions/v0.8.4/of_v0.8.4_vs_release.zip)
 - Unzip of_v0.8.4_vs_release.zip to 'My Documents'
 
-### 002 The openFrameworks community
+### 002 Structure of an oF application
+
+- Exploring the examples
+- openFrameworks for Processing users
+- ofMain.h, ofApp.h, ofApp.cpp
+- [Extended openFrameworks tutorial](http://openframeworks.cc/tutorials/introduction/001_chapter1.html)
+
+### 003 Creating your own app
+
+- [Using the Project Generator](http://www.openframeworks.cc/tutorials/introduction/002_projectGenerator.html)
+
+### 004 The openFrameworks community
 - What is openFrameworks?
 - While you are downloading, lets talk about...
 - Inspiration on the web: <br/>
@@ -23,20 +34,10 @@ For this workshop we will be using [openFrameworks 0.8.4] (http://openframeworks
    - [Eyewriter](http://thesystemis.com/projects/eyewriter/), Zach Lieberman<br/>
    - [design I/O](http://design-io.com), Theodore Watson, Emily Gobeille<br />
    - [DepthKit](http://www.rgbdtoolkit.com), James George, Alexander Porter <br />
+   - [Bjørn Gunnar Staa](https://vimeo.com/120787464)
    - [V Motion Project](https://vimeo.com/45417241), assemblyltd.com <br />
    - and more ...
-
-### 003 Structure of an oF application
-
-- Exploring the examples
-- openFrameworks for Processing users
-- ofMain.h, ofApp.h, ofApp.cpp
-- [Extended openFrameworks tutorial](http://openframeworks.cc/tutorials/introduction/001_chapter1.html)
-
-### 004 Creating your own app
-
-- [Using the Project Generator](http://www.openframeworks.cc/tutorials/introduction/002_projectGenerator.html)
-
+   
 ### 005 Addons && Resources
 
 - Come to Part II on March 10!
